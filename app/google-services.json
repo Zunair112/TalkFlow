@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6197550447",
+    "project_id": "talk-flow-ceae0",
+    "storage_bucket": "talk-flow-ceae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6197550447:android:e4abce1023e53a059adc9a",
+        "android_client_info": {
+          "package_name": "com.example.talkflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKA4iPKVKRdg-aq03qt2QynS9quDvx0ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
